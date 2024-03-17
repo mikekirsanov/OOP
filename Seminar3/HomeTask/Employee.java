@@ -54,9 +54,9 @@ public abstract class Employee implements Comparable<Employee> {
 
     public double getSalary(){
         return salary;
-    } }*/
+    } }
 
     public int getAge(){
         return age;
-    }
+    }*/
 }
